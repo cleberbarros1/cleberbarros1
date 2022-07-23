@@ -3,11 +3,11 @@
 ## Sou Cleber Barros ! 👋
 Apaixonado por tecnologia ♥ e Games 🎮 (RPG's ♥)
 
-:gear: **Eng Mecânico**<br>
-:computer: **Sistemas da Computação -  (3° período / 6) - Cursando**<br>
-🌱 Atualmente focado em evoluir como **Dev Fullstack** <br>
-📚 **Estudando**: -> Spring / Spring Boot / ReactJS <br>
-💬 **Me pergunte sobre:** -> JavaScript / CSS / HTML / Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)<br><br>
+:gear: | **Eng Mecânico**<br>
+:computer: | **Sistemas da Computação -  (3° período / 6) - Cursando**<br>
+🌱 | Atualmente focado em evoluir como **Dev Fullstack** <br>
+📚 | **Estudando**: -> Spring / Spring Boot / ReactJS <br>
+💬 | **Me pergunte sobre:** -> JavaScript / CSS / HTML / Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberbarros1&show_icons=true&theme=merko)
 
