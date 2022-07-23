@@ -19,7 +19,7 @@ Apaixonado por tecnologia ♥ e Games 🎮 (RPG's ♥)
  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-barros-b6251a163/)
 
   <br>
-  ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== 
+  ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== / ===== 
 
 [![](https://c.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif)](https://c.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif)
 
