@@ -35,7 +35,7 @@ Atualmente focado em evoluir como **Dev Fullstack** <br><br>
 
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberbarros1&layout=compact&theme=merko)
 
 <!--
 **cleberbarros1/cleberbarros1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
