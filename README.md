@@ -10,7 +10,7 @@ Atualmente focado em evoluir como **Dev Fullstack** <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberbarros1&show_icons=true&theme=merko)
 
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberbarros1&layout=compact&theme=merko&card_width=420)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberbarros1&layout=compact&theme=merko&card_width=450)
   
   
   - 📚 **Estudando**:
