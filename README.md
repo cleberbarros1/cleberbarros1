@@ -1,6 +1,6 @@
 ## <code><>   Hello world  </></code>
 
-## Sou Cleber Barros ! 👋 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-barros-b6251a163/)<br>
+## Sou Cleber Barros ! 👋 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-barros-b6251a163/)
 Apaixonado por tecnologia ♥ e Games 🎮 (RPG's ♥)
 
 :gear: | **Eng Mecânico**<br>
