@@ -3,7 +3,7 @@
 ## Sou Cleber Barros ! 👋
 
 **Eng Mecânico** - :gear:
-**Sistemas da Computação - :computer:  (3° período / 6) - Cursando**
+<br>**Sistemas da Computação - :computer:  (3° período / 6) - Cursando**
 
 Atualmente focado em desenvolver aplicações simples, porém completas (Fullstack)
 
