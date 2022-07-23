@@ -18,7 +18,12 @@ Apaixonado por tecnologia ♥ e Games 🎮 (RPG's ♥)
 
  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-barros-b6251a163/)
 
-  
+  <br>
+  ================================================================================
+
+[![](https://c.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif)](https://c.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif)
+
+créditos do gif acima: BDaniels85
 
 <!--
 **cleberbarros1/cleberbarros1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
