@@ -11,7 +11,7 @@ Atualmente focado em evoluir como **Dev Fullstack** <br><br>
 
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberbarros1&layout=compact&theme=merko&card_width=320px)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberbarros1&layout=compact&theme=merko&card_width=320)
   
   
   - 📚 **Estudando**:
