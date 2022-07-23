@@ -1,6 +1,6 @@
 ## <code><>   Hello world  </></code>
 
-## Sou Cleber Barros ! 👋
+## Sou Cleber Barros ! 👋 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-barros-b6251a163/)<br>
 Apaixonado por tecnologia ♥ e Games 🎮 (RPG's ♥)
 
 :gear: | **Eng Mecânico**<br>
@@ -8,7 +8,7 @@ Apaixonado por tecnologia ♥ e Games 🎮 (RPG's ♥)
 🌱 | Atualmente focado em evoluir como **Dev Fullstack** <br>
 📚 | **Estudando**: -> Spring / Spring Boot / ReactJS <br>
 💬 | **Me pergunte sobre:** -> JavaScript / CSS / HTML / Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)<br>
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-barros-b6251a163/)<br><br>
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberbarros1&show_icons=true&theme=merko)
 
