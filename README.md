@@ -7,7 +7,14 @@ Apaixonado por tecnologia ♥
 <br>**Sistemas da Computação - :computer:  (3° período / 6) - Cursando**<br>
 Atualmente focado em evoluir como **Dev Fullstack** <br><br>
 
-- 📚 **Estudando**:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberbarros1&show_icons=true&theme=merko)
+
+  <br>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberbarros1&layout=compact&theme=merko)
+  
+  
+  - 📚 **Estudando**:
 
   ​	Spring / Spring Boot
 
@@ -29,13 +36,7 @@ Atualmente focado em evoluir como **Dev Fullstack** <br><br>
    https://www.linkedin.com/in/cleber-barros-b6251a163/
 
   <br>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberbarros1&show_icons=true&theme=merko)
-
-  <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberbarros1&layout=compact&theme=merko)
 
 <!--
 **cleberbarros1/cleberbarros1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
