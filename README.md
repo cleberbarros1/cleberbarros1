@@ -1,11 +1,12 @@
 ## <code><>   Hello world  </></code>
 
 ## Sou Cleber Barros ! 👋
+Apaixonado por tecnologia ♥
 
 **Eng Mecânico** - :gear:
 <br>**Sistemas da Computação - :computer:  (3° período / 6) - Cursando**
 
-Atualmente focado em desenvolver aplicações simples, porém completas (Fullstack)<br>
+Atualmente focado em evoluir como Dev Fullstack <br>
 
 - 📚 **Estudando**:
 
