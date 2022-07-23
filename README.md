@@ -1,7 +1,7 @@
 ## <code><>   Hello world  </></code>
 
 ## Sou Cleber Barros ! 👋
-Apaixonado por tecnologia ♥
+Apaixonado por tecnologia ♥ e Games 🎮 (RPG's ♥)
 
 **Eng Mecânico** - :gear:
 <br>**Sistemas da Computação - :computer:  (3° período / 6) - Cursando**<br>
