@@ -4,7 +4,7 @@
 Apaixonado por tecnologia ♥
 
 **Eng Mecânico** - :gear:
-<br>**Sistemas da Computação - :computer:  (3° período / 6) - Cursando**
+<br>**Sistemas da Computação - :computer:  (3° período / 6) - Cursando**<br>
 Atualmente focado em evoluir como Dev Fullstack <br><br>
 
 - 📚 **Estudando**:
