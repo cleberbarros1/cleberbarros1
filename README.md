@@ -2,16 +2,19 @@
 
 
 
-🔭 Atualmente focado em desenvolver aplicações RESTful.
-
-
+•  Atualmente focado em desenvolver aplicações aplicações completas (Fullstack)
+• 📚 Estudando atualmente Spring / Spring Boot
+• 💬 Me pergunte sobre:
+- JavaScript
+- CSS
+- Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)
+- Games (RPG's ♥)
+• 📫 Você pode falar comigo em: https://www.linkedin.com/in/cleber-barros-b6251a163/
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberbarros1&show_icons=true&theme=merko)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberbarros1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cleberbarros1/cleberbarros1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
