@@ -12,7 +12,7 @@ Atualmente focado em desenvolver aplicações simples, porém completas (Fullsta
   ​	Spring / Spring Boot
 
   ​	ReactJS
-
+<br>
   
 
 - 💬 **Me pergunte sobre:**
@@ -25,12 +25,12 @@ Atualmente focado em desenvolver aplicações simples, porém completas (Fullsta
 
   ​	🎮 Games (RPG's ♥)
 
-  
+  <br>
 
 - 📫 **Você pode falar comigo em:**
    https://www.linkedin.com/in/cleber-barros-b6251a163/
 
-  
+  <br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberbarros1&show_icons=true&theme=merko)
