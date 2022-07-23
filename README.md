@@ -3,9 +3,9 @@
 ## Sou Cleber Barros ! 👋
 Apaixonado por tecnologia ♥ e Games 🎮 (RPG's ♥)
 
-**Eng Mecânico** - :gear:
-<br>**Sistemas da Computação - :computer:  (3° período / 6) - Cursando**<br>
-Atualmente focado em evoluir como **Dev Fullstack** <br>
+:gear: **Eng Mecânico**<br>
+:computer: **Sistemas da Computação -  (3° período / 6) - Cursando**<br>
+🌱 Atualmente focado em evoluir como **Dev Fullstack** <br>
 📚 **Estudando**: -> Spring / Spring Boot / ReactJS <br>
 💬 **Me pergunte sobre:** -> JavaScript / CSS / HTML / Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)<br><br>
 
