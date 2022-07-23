@@ -17,9 +17,7 @@ Atualmente focado em desenvolver aplicações simples, porém completas (Fullsta
 
 - 💬 **Me pergunte sobre:**
 
-  ​	JS
-
-  ​	CSS
+  ​	JS / CSS / HTML
 
   ​	Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)
 
