@@ -13,28 +13,12 @@ Atualmente focado em evoluir como **Dev Fullstack** <br><br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberbarros1&layout=compact&theme=merko&card_width=450)
   
   
-  - 📚 **Estudando**:
-
-  ​	Spring / Spring Boot
-
-  ​	ReactJS
-<br>
+  - 📚 **Estudando**: -> Spring / Spring Boot / ReactJS <br>
   
 
-- 💬 **Me pergunte sobre:**
+- 💬 **Me pergunte sobre:** -> JavaScript / CSS / HTML / Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)<br>
 
-  ​	JS / CSS / HTML
-
-  ​	Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)
-
-  ​	Games 🎮 (RPG's ♥)
-
-  <br>
-
-- 📫 **Você pode falar comigo em:**
-   https://www.linkedin.com/in/cleber-barros-b6251a163/
-
-  <br>
+- 📫 **Você pode falar comigo em:** https://www.linkedin.com/in/cleber-barros-b6251a163/<br>
   
 
 <!--
