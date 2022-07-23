@@ -7,7 +7,7 @@ Apaixonado por tecnologia ♥ e Games 🎮 (RPG's ♥)
 <br>**Sistemas da Computação - :computer:  (3° período / 6) - Cursando**<br>
 Atualmente focado em evoluir como **Dev Fullstack** <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberbarros1&show_icons=true&theme=merko&card_width=320px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberbarros1&show_icons=true&theme=merko&card_width=320)
 
   <br>
   
