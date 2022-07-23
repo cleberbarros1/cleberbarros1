@@ -22,7 +22,7 @@ Atualmente focado em evoluir como Dev Fullstack <br>
 
   ​	Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)
 
-  ​	🎮 Games (RPG's ♥)
+  ​	Games 🎮 (RPG's ♥)
 
   <br>
 
