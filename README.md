@@ -1,19 +1,39 @@
-### Hello world! Sou Cleber Barros 👋
+## <code><>   Hello world  </></code>
 
+## Sou Cleber Barros ! 👋
 
+**Eng Mecânico** - :gear:
+**Sistemas da Computação - :computer:  (3° período / 6) - Cursando**
 
--  Atualmente focado em desenvolver aplicações aplicações completas (Fullstack)
-- 📚 Estudando atualmente Spring / Spring Boot
-- 💬 Me pergunte sobre:
-- JavaScript
-- CSS
-- Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)
-- Games (RPG's ♥)
-- 📫 Você pode falar comigo em: https://www.linkedin.com/in/cleber-barros-b6251a163/
+Atualmente focado em desenvolver aplicações simples, porém completas (Fullstack)
+
+- 📚 **Estudando**:
+
+  ​	Spring / Spring Boot
+
+  ​	ReactJS
+
+  
+
+- 💬 **Me pergunte sobre:**
+
+  ​	JS
+
+  ​	CSS
+
+  ​	Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)
+
+  ​	🎮 Games (RPG's ♥)
+
+  
+
+- 📫 **Você pode falar comigo em:**
+   https://www.linkedin.com/in/cleber-barros-b6251a163/
+
+  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberbarros1&show_icons=true&theme=merko)
-
 
 
 <!--
