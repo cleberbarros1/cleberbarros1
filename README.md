@@ -6,7 +6,7 @@ Apaixonado por tecnologia e Games 🎮 (RPG's)
 :gear: | **Eng Mecânico**<br>
 :computer: | **Sistemas da Computação -  (3° período / 6) - Cursando**<br>
 🌱 | Atualmente focado em evoluir como **Dev Fullstack** <br>
-📚 | **Estudando**: -> Spring / Spring Boot / ReactJS <br>
+📚 | **Estudando**: -> Spring / Python / ReactJS <br>
 💬 | **Me pergunte sobre:** -> JavaScript / CSS / HTML / Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)
 <br><br>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-barros-b6251a163/)
