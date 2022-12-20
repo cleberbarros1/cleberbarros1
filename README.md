@@ -28,7 +28,7 @@ Apaixonado por tecnologia e Games 🎮 (RPG's)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px">
  </div>
   
-  ## Data Base
+  ## DB
   <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40px" />   
