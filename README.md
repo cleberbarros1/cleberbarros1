@@ -30,8 +30,8 @@ Apaixonado por tecnologia e Games 🎮 (RPG's)
   
   ## Data Base
   <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/postgres.svg" width="40px">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />   
   </div>
   
 
