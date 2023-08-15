@@ -4,7 +4,7 @@
 Apaixonado por tecnologia e Games 🎮 (RPG's)
 
 :gear: | **Eng Mecânico**<br>
-:computer: | **Pós Graduando em Engenharia de Software - PUC/MG **<br>
+:computer: | **Pós Graduando em Engenharia de Software** - PUC/MG<br>
 📚 | **Estudando**: -> Machine Learning with Python / .NET <br>
 💬 | **Me pergunte sobre:** -> JavaScript / CSS / HTML / Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)
 <br><br>
