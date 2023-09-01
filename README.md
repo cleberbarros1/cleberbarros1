@@ -6,7 +6,7 @@ Apaixonado por tecnologia e Games 🎮 (RPG's)
 :gear: | **Eng Mecânico** - UFF/RJ <br>
 :computer: | **Pós Graduando em Engenharia de Software** - PUC/MG<br>
 📚 | **Estudando**: -> Machine Learning with Python / .NET <br>
-💬 | **Me pergunte sobre:** -> JavaScript / CSS / HTML / Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)
+💬 | **Me pergunte sobre:** -> Fullstack Stuff / Engenharia Mecânica ( Cálulo / Física / Resistência dos Materiais)
 <br><br>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-barros-b6251a163/)
 <br><br>
