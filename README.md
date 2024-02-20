@@ -3,7 +3,7 @@
 ## Sou Cleber Barros ! 👋<br>
 Apaixonado por tecnologia e Games 🎮 (RPG's)
 
-:computer: | **Mestrando em Algoritmos e Modelagem Computacional** - Mestrado - Universidade Federal Fluminense <br>
+🎓 | **Mestrando em Algoritmos e Modelagem Computacional** - Mestrado - Universidade Federal Fluminense <br>
 :computer: | **Especialista em Engenharia de Software** - Pós Graduação PUC/MG<br>
 :gear: | **Eng Mecânico** - UFF/RJ <br>
 📚 | **Estudando**: -> Machine Learning with Python / .NET <br>
