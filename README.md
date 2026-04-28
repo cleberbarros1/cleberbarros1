@@ -1,6 +1,6 @@
 ## <code><>   Hello world  </></code>
 
-## Sou Cleber Barros ! 👋<br>
+## Sou CBarros ! 👋<br>
 Apaixonado por tecnologia e Games 🎮 (RPG's)
 
 🎓 | **Mestrando em Algoritmos e Modelagem Computacional** - Mestrado - Universidade Federal Fluminense <br>
